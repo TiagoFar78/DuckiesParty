@@ -26,7 +26,7 @@ Drawn card that eliminates the player unless they have a *Angel Duckie* card.
 
 Can be played immediately after drawing an *Killer Duckie* to avoid elimination. After being saved, the *Killer Duckie* is placed back into the deck secretly at any position chosen by the player.
 
-### *Ruded Duckie*
+### *Rude Duckie*
 
 Ends the current player’s turn, without drawing a new card, and forces the next player to take two turns in a row.
 
